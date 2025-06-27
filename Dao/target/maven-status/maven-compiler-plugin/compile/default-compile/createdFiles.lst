@@ -1,0 +1,7 @@
+hr\algebra\dal\sql\SqlRepository.class
+hr\algebra\model\Author.class
+hr\algebra\dal\Repository.class
+hr\algebra\model\Users.class
+hr\algebra\dal\RepositoryFactory.class
+hr\algebra\dal\sql\DataSourceSingleton.class
+hr\algebra\model\Article.class
